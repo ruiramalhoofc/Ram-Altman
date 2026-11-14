@@ -1,6 +1,6 @@
 # Ram Altman — RAM Greed Simulator
 
-A small Windows satire: it dynamically attempts to use the available physical RAM instead of requesting a fixed number of gigabytes.
+A small Windows satire: it dynamically attempts to use the available physical RAM.
 
 ## Safety and behaviour
 
